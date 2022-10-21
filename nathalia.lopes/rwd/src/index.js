@@ -3,5 +3,5 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 
-ReactDOM.createRoot('Formulário', document.getElementById('root'));
+ReactDOM.render('Formulário', document.getElementById('root'));
 
